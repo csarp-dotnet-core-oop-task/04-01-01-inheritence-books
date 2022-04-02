@@ -27,3 +27,4 @@ Könyv címe: Pro C# 7
 Könyv oldalszáma: 155
 Könyv készlet: 100 db
 ```
+![kép](https://github.com/csarp-dotnet-core-oop-task/04-01-02-inheritence-books/blob/main/BooksProjekt/task.png)
