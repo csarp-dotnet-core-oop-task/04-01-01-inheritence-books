@@ -1,8 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>gyak_01_02_01_MazeTests</RootNamespace>
+    <TargetFramework>.NETCoreApp,Version=v3.1</TargetFramework>
 
     <IsPackable>false</IsPackable>
   </PropertyGroup>
@@ -15,5 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\BooksProjekt\BooksProjekt.csproj" />
   </ItemGroup>
+
 </Project>
