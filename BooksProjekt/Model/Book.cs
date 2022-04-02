@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Konyvek.model
+namespace Konyvek.Model
 {
     class Book
     {

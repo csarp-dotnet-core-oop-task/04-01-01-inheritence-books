@@ -1,5 +1,5 @@
 ﻿using System;
-using Konyvek.model;
+using Konyvek.Model;
 
 namespace Konyvek
 {

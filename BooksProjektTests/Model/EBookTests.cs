@@ -1,10 +1,11 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Konyvek.model;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Konyvek.model.Tests
+using Konyvek.Model;
+
+namespace Konyvek.Model.Tests
 {
     [TestClass()]
     public class EBookTests
